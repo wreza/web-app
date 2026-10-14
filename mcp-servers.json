@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "divar": {
+      "url": "https://divar-mcp.mmdju2.workers.dev/mcp"
+    },
+    "torob": {
+      "url": "https://torob-mcp.mmdju3.workers.dev/mcp"
+    },
+    "digikala": {
+      "url": "https://digikala-mcp.mmdju.workers.dev/mcp"
+    }
+  }
+}
